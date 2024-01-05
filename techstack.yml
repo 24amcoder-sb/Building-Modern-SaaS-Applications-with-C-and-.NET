@@ -1,7 +1,8 @@
 repo_name: 24amcoder-sb/Building-Modern-SaaS-Applications-with-C-and-.NET
 report_id: 8f0b55fbfc787bb6407e4e029e05d2e6
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-16T04:20:32+00:00'
+timestamp: '2024-01-05T08:39:36+00:00'
 requested_by: Jubit-packt
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/24amcoder-sb/Building-Modern-SaaS-Applications-with-C-and-.NET
   detection_source: Repo Metadata
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/24amcoder-sb/Building-Modern-SaaS-Applications-with-C-and-.NET
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -36,6 +39,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/24amcoder-sb/Building-Modern-SaaS-Applications-with-C-and-.NET/blob/main/Chapter-9/test/GoodHabits.HabitService.Tests/GoodHabits.HabitService.Tests.csproj
   detection_source: Chapter-9/test/GoodHabits.HabitService.Tests/GoodHabits.HabitService.Tests.csproj
   last_updated_by: Andy Watt
   last_updated_on: 2023-05-10 15:19:11.000000000 Z
@@ -50,8 +54,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
-  detection_source_url: Chapter-2/GoodHabits.Client/GoodHabits.Client.csproj
-  detection_source: Chapter-9/test/GoodHabits.HabitService.Tests/GoodHabits.HabitService.Tests.csproj
+  detection_source_url: https://github.com/24amcoder-sb/Building-Modern-SaaS-Applications-with-C-and-.NET/blob/main/Chapter-2/GoodHabits.Client/GoodHabits.Client.csproj
+  detection_source: Chapter-2/GoodHabits.Client/GoodHabits.Client.csproj
   last_updated_by: Andy Watt
   last_updated_on: 2023-05-06 10:14:47.000000000 Z
 - name: ASP.NET Core
@@ -65,8 +69,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/11331/asp.net-core.png
-  detection_source_url: Chapter-2/GoodHabits.Client/GoodHabits.Client.csproj
-  detection_source: Chapter-9/test/GoodHabits.HabitService.Tests/GoodHabits.HabitService.Tests.csproj
+  detection_source_url: https://github.com/24amcoder-sb/Building-Modern-SaaS-Applications-with-C-and-.NET/blob/main/Chapter-2/GoodHabits.Client/GoodHabits.Client.csproj
+  detection_source: Chapter-2/GoodHabits.Client/GoodHabits.Client.csproj
   last_updated_by: Andy Watt
   last_updated_on: 2023-05-06 10:14:47.000000000 Z
 - name: Node.js
@@ -78,7 +82,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
-  detection_source: Chapter-9/docker/dev-env/Dockerfile
+  detection_source_url: https://github.com/24amcoder-sb/Building-Modern-SaaS-Applications-with-C-and-.NET/blob/main/Chapter-2/docker/dev-env/Dockerfile
+  detection_source: Chapter-2/docker/dev-env/Dockerfile
   last_updated_by: Andy Watt
   last_updated_on: 2023-05-06 10:14:47.000000000 Z
 - name: Entity Framework
@@ -91,7 +96,8 @@ tools:
   category: Data Stores
   sub_category: Object Relational Mapper (ORM)
   image_url: https://img.stackshare.io/service/3251/no-img-open-source.png
-  detection_source: Chapter-9/GoodHabits.Database/GoodHabits.Database.csproj
+  detection_source_url: https://github.com/24amcoder-sb/Building-Modern-SaaS-Applications-with-C-and-.NET/blob/main/Chapter-2/GoodHabits.Database/GoodHabits.Database.csproj
+  detection_source: Chapter-2/GoodHabits.Database/GoodHabits.Database.csproj
   last_updated_by: Andy Watt
   last_updated_on: 2023-05-06 10:14:47.000000000 Z
 - name: Entity Framework Core
@@ -103,7 +109,8 @@ tools:
   category: Data Stores
   sub_category: Object Relational Mapper (ORM)
   image_url: https://img.stackshare.io/service/10254/no-img-open-source.png
-  detection_source: Chapter-9/GoodHabits.Database/GoodHabits.Database.csproj
+  detection_source_url: https://github.com/24amcoder-sb/Building-Modern-SaaS-Applications-with-C-and-.NET/blob/main/Chapter-2/GoodHabits.Database/GoodHabits.Database.csproj
+  detection_source: Chapter-2/GoodHabits.Database/GoodHabits.Database.csproj
   last_updated_by: Andy Watt
   last_updated_on: 2023-05-06 10:14:47.000000000 Z
 - name: Microsoft SQL Server
@@ -114,7 +121,8 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1027/sql_server.png
-  detection_source: Chapter-9/GoodHabits.Database/GoodHabits.Database.csproj
+  detection_source_url: https://github.com/24amcoder-sb/Building-Modern-SaaS-Applications-with-C-and-.NET/blob/main/Chapter-2/GoodHabits.Database/GoodHabits.Database.csproj
+  detection_source: Chapter-2/GoodHabits.Database/GoodHabits.Database.csproj
   last_updated_by: Andy Watt
   last_updated_on: 2023-05-06 10:14:47.000000000 Z
 - name: Docker
@@ -126,6 +134,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/24amcoder-sb/Building-Modern-SaaS-Applications-with-C-and-.NET
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -135,6 +144,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/24amcoder-sb/Building-Modern-SaaS-Applications-with-C-and-.NET
   detection_source: Repo Metadata
 - name: Moq
   description: The most popular and friendly mocking framework for .NET
@@ -144,6 +154,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/1628/1434934.png
+  detection_source_url: https://github.com/24amcoder-sb/Building-Modern-SaaS-Applications-with-C-and-.NET/blob/main/Chapter-9/test/GoodHabits.HabitService.Tests/GoodHabits.HabitService.Tests.csproj
   detection_source: Chapter-9/test/GoodHabits.HabitService.Tests/GoodHabits.HabitService.Tests.csproj
   last_updated_by: Andy Watt
   last_updated_on: 2023-05-10 15:19:11.000000000 Z
@@ -155,6 +166,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/24amcoder-sb/Building-Modern-SaaS-Applications-with-C-and-.NET/blob/main/Chapter-9/test/GoodHabits.HabitService.Tests/GoodHabits.HabitService.Tests.csproj
   detection_source: Chapter-9/test/GoodHabits.HabitService.Tests/GoodHabits.HabitService.Tests.csproj
   last_updated_by: Andy Watt
   last_updated_on: 2023-05-10 15:19:11.000000000 Z
@@ -167,6 +179,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/24amcoder-sb/Building-Modern-SaaS-Applications-with-C-and-.NET/blob/main/Chapter-2/GoodHabits.sln
   detection_source: Chapter-2/GoodHabits.sln
   last_updated_by: Andy Watt
   last_updated_on: 2023-05-06 10:14:47.000000000 Z
@@ -179,7 +192,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/3077/ca5a327feb49ddfe1f4b11548907e5a1_400x400.png
-  detection_source_url: Chapter-9/test/GoodHabits.HabitService.Tests/GoodHabits.HabitService.Tests.csproj
+  detection_source_url: https://github.com/24amcoder-sb/Building-Modern-SaaS-Applications-with-C-and-.NET/blob/main/Chapter-9/test/GoodHabits.HabitService.Tests/GoodHabits.HabitService.Tests.csproj
   detection_source: Chapter-9/test/GoodHabits.HabitService.Tests/GoodHabits.HabitService.Tests.csproj
   last_updated_by: Andy Watt
   last_updated_on: 2023-05-10 15:19:11.000000000 Z
@@ -192,6 +205,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/24amcoder-sb/Building-Modern-SaaS-Applications-with-C-and-.NET
   detection_source: Repo Metadata
 - name: AutoMapper.Extensions.Microsoft.DependencyInjection
   description: AutoMapper extensions for ASP.NET Core
@@ -202,8 +216,8 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13248/default_3b9faa77d26eef0a944d4dab8d562db23059cb72.png
-  detection_source_url: Chapter-5/GoodHabits.HabitService/GoodHabits.HabitService.csproj
-  detection_source: Chapter-9/GoodHabits.HabitService/GoodHabits.HabitService.csproj
+  detection_source_url: https://github.com/24amcoder-sb/Building-Modern-SaaS-Applications-with-C-and-.NET/blob/main/Chapter-5/GoodHabits.HabitService/GoodHabits.HabitService.csproj
+  detection_source: Chapter-5/GoodHabits.HabitService/GoodHabits.HabitService.csproj
   last_updated_by: Andy Watt
   last_updated_on: 2023-05-10 15:12:55.000000000 Z
 - name: FluentAssertions
@@ -217,7 +231,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13059/default_ed36ff3c005af695725e05bb15ea5b1f03de31f3.png
-  detection_source_url: Chapter-9/test/GoodHabits.HabitService.Tests/GoodHabits.HabitService.Tests.csproj
+  detection_source_url: https://github.com/24amcoder-sb/Building-Modern-SaaS-Applications-with-C-and-.NET/blob/main/Chapter-9/test/GoodHabits.HabitService.Tests/GoodHabits.HabitService.Tests.csproj
   detection_source: Chapter-9/test/GoodHabits.HabitService.Tests/GoodHabits.HabitService.Tests.csproj
   last_updated_by: Andy Watt
   last_updated_on: 2023-05-10 15:19:11.000000000 Z
@@ -231,8 +245,8 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13258/default_d2db5a200c4fe2d08cbdb2174cc230708973870b.png
-  detection_source_url: Chapter-3/GoodHabits.HabitService/GoodHabits.HabitService.csproj
-  detection_source: Chapter-9/GoodHabits.HabitService/GoodHabits.HabitService.csproj
+  detection_source_url: https://github.com/24amcoder-sb/Building-Modern-SaaS-Applications-with-C-and-.NET/blob/main/Chapter-3/GoodHabits.HabitService/GoodHabits.HabitService.csproj
+  detection_source: Chapter-3/GoodHabits.HabitService/GoodHabits.HabitService.csproj
   last_updated_by: Andy Watt
   last_updated_on: 2023-05-10 15:08:54.000000000 Z
 - name: Microsoft.AspNetCore.Mvc.Versioning
@@ -245,8 +259,8 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13333/default_9a849f196ca7930b27f663ae8f15c937ea1b49e5.png
-  detection_source_url: Chapter-5/GoodHabits.HabitService/GoodHabits.HabitService.csproj
-  detection_source: Chapter-9/GoodHabits.UserService/GoodHabits.UserService.csproj
+  detection_source_url: https://github.com/24amcoder-sb/Building-Modern-SaaS-Applications-with-C-and-.NET/blob/main/Chapter-5/GoodHabits.HabitService/GoodHabits.HabitService.csproj
+  detection_source: Chapter-5/GoodHabits.HabitService/GoodHabits.HabitService.csproj
   last_updated_by: Andy Watt
   last_updated_on: 2023-05-10 15:12:55.000000000 Z
 - name: Microsoft.EntityFrameworkCore
@@ -260,8 +274,8 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12852/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
-  detection_source_url: Chapter-2/GoodHabits.Database/GoodHabits.Database.csproj
-  detection_source: Chapter-9/GoodHabits.Database/GoodHabits.Database.csproj
+  detection_source_url: https://github.com/24amcoder-sb/Building-Modern-SaaS-Applications-with-C-and-.NET/blob/main/Chapter-2/GoodHabits.Database/GoodHabits.Database.csproj
+  detection_source: Chapter-2/GoodHabits.Database/GoodHabits.Database.csproj
   last_updated_by: Andy Watt
   last_updated_on: 2023-05-06 10:14:47.000000000 Z
 - name: Microsoft.EntityFrameworkCore.Analyzers
@@ -274,8 +288,8 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/15518/default_8ef2cf91bbbd7cddb2b64d6f4c09d8345b74f23a.png
-  detection_source_url: Chapter-2/GoodHabits.Database/GoodHabits.Database.csproj
-  detection_source: Chapter-9/GoodHabits.Database/GoodHabits.Database.csproj
+  detection_source_url: https://github.com/24amcoder-sb/Building-Modern-SaaS-Applications-with-C-and-.NET/blob/main/Chapter-2/GoodHabits.Database/GoodHabits.Database.csproj
+  detection_source: Chapter-2/GoodHabits.Database/GoodHabits.Database.csproj
   last_updated_by: Andy Watt
   last_updated_on: 2023-05-06 10:14:47.000000000 Z
 - name: Microsoft.EntityFrameworkCore.Relational
@@ -288,8 +302,8 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12914/default_cd4457378b2b3dee674f43707df49edfbc5c04e5.png
-  detection_source_url: Chapter-2/GoodHabits.Database/GoodHabits.Database.csproj
-  detection_source: Chapter-9/GoodHabits.Database/GoodHabits.Database.csproj
+  detection_source_url: https://github.com/24amcoder-sb/Building-Modern-SaaS-Applications-with-C-and-.NET/blob/main/Chapter-2/GoodHabits.Database/GoodHabits.Database.csproj
+  detection_source: Chapter-2/GoodHabits.Database/GoodHabits.Database.csproj
   last_updated_by: Andy Watt
   last_updated_on: 2023-05-06 10:14:47.000000000 Z
 - name: Microsoft.EntityFrameworkCore.SqlServer
@@ -302,8 +316,8 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12891/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
-  detection_source_url: Chapter-2/GoodHabits.Database/GoodHabits.Database.csproj
-  detection_source: Chapter-9/GoodHabits.Database/GoodHabits.Database.csproj
+  detection_source_url: https://github.com/24amcoder-sb/Building-Modern-SaaS-Applications-with-C-and-.NET/blob/main/Chapter-2/GoodHabits.Database/GoodHabits.Database.csproj
+  detection_source: Chapter-2/GoodHabits.Database/GoodHabits.Database.csproj
   last_updated_by: Andy Watt
   last_updated_on: 2023-05-06 10:14:47.000000000 Z
 - name: Microsoft.EntityFrameworkCore.Tools
@@ -317,8 +331,8 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13138/default_a057bdad489be3cb053d372a68695da4ac94962d.png
-  detection_source_url: Chapter-2/GoodHabits.Database/GoodHabits.Database.csproj
-  detection_source: Chapter-9/GoodHabits.Database/GoodHabits.Database.csproj
+  detection_source_url: https://github.com/24amcoder-sb/Building-Modern-SaaS-Applications-with-C-and-.NET/blob/main/Chapter-2/GoodHabits.Database/GoodHabits.Database.csproj
+  detection_source: Chapter-2/GoodHabits.Database/GoodHabits.Database.csproj
   last_updated_by: Andy Watt
   last_updated_on: 2023-05-06 10:14:47.000000000 Z
 - name: Ocelot
@@ -331,8 +345,8 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13807/default_09c85dd1bb0789ff721cf2f6a004e0a20121dfe9.png
-  detection_source_url: Chapter-6/GoodHabits.ApiGateway/GoodHabits.ApiGateway.csproj
-  detection_source: Chapter-9/GoodHabits.ApiGateway/GoodHabits.ApiGateway.csproj
+  detection_source_url: https://github.com/24amcoder-sb/Building-Modern-SaaS-Applications-with-C-and-.NET/blob/main/Chapter-6/GoodHabits.ApiGateway/GoodHabits.ApiGateway.csproj
+  detection_source: Chapter-6/GoodHabits.ApiGateway/GoodHabits.ApiGateway.csproj
   last_updated_by: Andy Watt
   last_updated_on: 2023-05-10 15:14:37.000000000 Z
 - name: Swashbuckle.AspNetCore
@@ -345,8 +359,8 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12981/default_aa8a6e377c22dbeff795489a5ab127b1d597b5ed.png
-  detection_source_url: Chapter-2/GoodHabits.HabitService/GoodHabits.HabitService.csproj
-  detection_source: Chapter-9/GoodHabits.UserService/GoodHabits.UserService.csproj
+  detection_source_url: https://github.com/24amcoder-sb/Building-Modern-SaaS-Applications-with-C-and-.NET/blob/main/Chapter-2/GoodHabits.HabitService/GoodHabits.HabitService.csproj
+  detection_source: Chapter-2/GoodHabits.HabitService/GoodHabits.HabitService.csproj
   last_updated_by: Andy Watt
   last_updated_on: 2023-05-06 10:14:47.000000000 Z
 - name: xunit.runner.visualstudio
@@ -359,7 +373,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13260/default_d2db5a200c4fe2d08cbdb2174cc230708973870b.png
-  detection_source_url: Chapter-9/test/GoodHabits.HabitService.Tests/GoodHabits.HabitService.Tests.csproj
+  detection_source_url: https://github.com/24amcoder-sb/Building-Modern-SaaS-Applications-with-C-and-.NET/blob/main/Chapter-9/test/GoodHabits.HabitService.Tests/GoodHabits.HabitService.Tests.csproj
   detection_source: Chapter-9/test/GoodHabits.HabitService.Tests/GoodHabits.HabitService.Tests.csproj
   last_updated_by: Andy Watt
   last_updated_on: 2023-05-10 15:19:11.000000000 Z
