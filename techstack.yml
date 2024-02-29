@@ -2,7 +2,7 @@ repo_name: 24amcoder-sb/Building-Modern-SaaS-Applications-with-C-and-.NET
 report_id: 8f0b55fbfc787bb6407e4e029e05d2e6
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:39:36+00:00'
+timestamp: '2024-02-29T18:47:40+00:00'
 requested_by: Jubit-packt
 provider: github
 branch: main
@@ -101,7 +101,7 @@ tools:
   last_updated_by: Andy Watt
   last_updated_on: 2023-05-06 10:14:47.000000000 Z
 - name: Entity Framework Core
-  description: 'Lightweight and cross-platform version of the popular Entity Framework '
+  description: Lightweight and cross-platform version of the popular Entity Framework
   website_url: https://docs.microsoft.com/en-us/ef/core/
   license: MIT
   open_source: true
